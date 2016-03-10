@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Furthering Consciousness for a Better Mankind
-datePublished: '2016-03-10T18:14:53.903Z'
-dateModified: '2016-03-10T18:03:12.792Z'
+datePublished: '2016-03-10T18:17:18.228Z'
+dateModified: '2016-03-10T18:15:01.181Z'
 title: The Clue Society
 author: []
 sourcePath: _posts/2016-03-10-the-clue-society.md
