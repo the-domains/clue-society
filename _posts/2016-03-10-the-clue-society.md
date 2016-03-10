@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-10T16:18:10.594Z'
-dateModified: '2016-03-10T16:17:41.019Z'
+description: Furthering Consciousness for a Better Mankind
+datePublished: '2016-03-10T16:21:45.239Z'
+dateModified: '2016-03-10T16:18:16.996Z'
 title: The Clue Society
 author: []
+sourcePath: _posts/2016-03-10-the-clue-society.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-the-clue-society.md
-published: true
 url: the-clue-society/index.html
 _type: Article
 
